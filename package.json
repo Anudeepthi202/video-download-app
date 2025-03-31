@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express-list-routes": "^1.2.4",
+    "mongoose": "^8.10.1"
+  }
+}
